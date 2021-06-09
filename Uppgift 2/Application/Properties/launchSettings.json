@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Application": {
+      "commandName": "Project",
+      "commandLineArgs": "3 random"
+    }
+  }
+}
